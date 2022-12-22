@@ -9,10 +9,10 @@ public class pr2 {
 		String str1, str2;
 		Scanner sc = new Scanner(System.in);
 			 
-		System.out.println("Enter first String");
+		System.out.println("Enter First string");
 		str1 = sc.nextLine();
 			 
-		System.out.println("Enter second String");
+		System.out.println("Enter Second string");
 		str2 = sc.nextLine();
 
 		if (str1.contains(str2))
